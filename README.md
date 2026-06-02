@@ -1,4 +1,4 @@
- je suis ANDRIAMANJAKA
+ Salut,je suis ANDRIAMANJAKA
 
 💻 Développeur Full-Stack 
 
@@ -30,7 +30,7 @@
 
 ⚡ À propos de moi
 
-Développeur web et mobile avec plus de 3 ans d'expérience, spécialisé dans la création d'applications modernes, évolutives et centrées sur l'utilisateur. Je progresse grâce à la formation continue et aux projets concrets, avec un fort engagement envers la qualité, la maintenabilité et la performance.
+Développeur web avec plus de 3 ans d'expérience, spécialisé dans la création d'applications modernes, évolutives et centrées sur l'utilisateur. Je progresse grâce à la formation continue et aux projets concrets, avec un fort engagement envers la qualité, la maintenabilité et la performance.
 
 Je transforme les problèmes complexes en solutions claires, efficaces et intuitives.
 Animé par la curiosité et la passion de construire. 🚀
